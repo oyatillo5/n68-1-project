@@ -1,0 +1,22 @@
+body{
+}
+.main{
+    background-color: rgba(244, 213, 169, 0.793);
+    width: 800px;
+    margin-left: 250px;
+    padding-top: 30px;
+    display: flex;
+    border-radius: 15px;
+    justify-content: space-evenly;
+    padding: 30px;
+.one{
+    width: 50%;
+}
+.two{
+    align-items: center;
+    width: 50%;
+}
+img{
+    border-radius: 50%;
+    width: 150px;
+}
